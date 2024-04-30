@@ -80,7 +80,7 @@ export default {
                 {
                     id: 1,
                     name: this.$t('ruletest.Name'),
-                    url: 'ptest-1.ipcheck.ing',
+                    url: '111111111111ptest-1.ipcheck.ing',
                     ip: this.$t('ruletest.StatusWait'),
                     country_code: this.$t('ruletest.StatusWait'),
                     country: this.$t('ruletest.StatusWait'),
